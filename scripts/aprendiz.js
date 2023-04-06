@@ -9,6 +9,7 @@ var Aprendiz = /** @class */ (function () {
         this.nombres = nombres;
         this.apellidos = apellidos;
         this.avatar = avatar;
+        this.edad = edad;
         this.nivelEducativo = nivelEducativo;
     }
     return Aprendiz;
